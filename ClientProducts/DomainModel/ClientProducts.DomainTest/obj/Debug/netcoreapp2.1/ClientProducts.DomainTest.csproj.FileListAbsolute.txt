@@ -1,0 +1,11 @@
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\ClientProducts.DomainTest.deps.json
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\ClientProducts.DomainTest.runtimeconfig.json
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\ClientProducts.DomainTest.runtimeconfig.dev.json
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\bin\Debug\netcoreapp2.1\ClientProducts.DomainTest.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\obj\Debug\netcoreapp2.1\ClientProducts.DomainTest.csprojAssemblyReference.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\obj\Debug\netcoreapp2.1\ClientProducts.DomainTest.csproj.CoreCompileInputs.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\obj\Debug\netcoreapp2.1\ClientProducts.DomainTest.AssemblyInfoInputs.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\DomainModel\ClientProducts.DomainTest\obj\Debug\netcoreapp2.1\ClientProducts.DomainTest.AssemblyInfo.cs

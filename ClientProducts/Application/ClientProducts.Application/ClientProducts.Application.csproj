@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DomainModel\ClientProducts.Domain\ClientProducts.Domain.csproj" />
+    <ProjectReference Include="..\..\DomainModel\Common.Domain\Common.Domain.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Helpers\ClientProducts.Logs\ClientProducts.Logs.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\Repository\ClientProducts.Repository\ClientProducts.Repository.csproj" />
+    <ProjectReference Include="..\..\Message\ClientProducts.Message\ClientProducts.Message.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SkCo.SecurityPolicyLevel.OTP">
+      <HintPath>..\..\..\Libs\SkCo.SecurityPolicyLevel.OTP.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Security" />
+  </ItemGroup>
+
+</Project>

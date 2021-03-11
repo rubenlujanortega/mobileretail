@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\lujrub\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitVersions\\MobileRetail.Api\\ClientProducts\\DomainModel\\ClientProducts.Domain\\ClientProducts.Domain.csproj",
+      "projectName": "ClientProducts.Domain",
+      "projectPath": "D:\\GitVersions\\MobileRetail.Api\\ClientProducts\\DomainModel\\ClientProducts.Domain\\ClientProducts.Domain.csproj",
+      "packagesPath": "C:\\Users\\lujrub\\.nuget\\packages\\",
+      "outputPath": "D:\\GitVersions\\MobileRetail.Api\\ClientProducts\\DomainModel\\ClientProducts.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lujrub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "D:\\GitVersions\\packages": {},
+        "http://mxmetf02:8080/tfs/DefaultCollection/_packaging/PublishFeed/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {}
+    }
+  }
+}

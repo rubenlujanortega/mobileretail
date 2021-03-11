@@ -1,0 +1,10 @@
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\bin\Debug\net472\ClientProducts.Logs.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\obj\Debug\net472\ClientProducts.Logs.csproj.CoreCompileInputs.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\obj\Debug\net472\ClientProducts.Logs.AssemblyInfoInputs.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\obj\Debug\net472\ClientProducts.Logs.AssemblyInfo.cs
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\bin\Debug\net472\Serilog.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\obj\Debug\net472\ClientProducts.Logs.csproj.CopyComplete
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\bin\Debug\net472\ClientProducts.Logs.pdb
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\obj\Debug\net472\ClientProducts.Logs.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\ClientProducts.Logs\obj\Debug\net472\ClientProducts.Logs.pdb

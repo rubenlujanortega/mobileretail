@@ -1,0 +1,9 @@
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\obj\Debug\netstandard2.0\NumericValues.Helper.csproj.CoreCompileInputs.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\obj\Debug\netstandard2.0\NumericValues.Helper.AssemblyInfoInputs.cache
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\obj\Debug\netstandard2.0\NumericValues.Helper.AssemblyInfo.cs
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\bin\Debug\netstandard2.0\NumericValues.Helper.deps.json
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\bin\Debug\netstandard2.0\NumericValues.Helper.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\bin\Debug\netstandard2.0\NumericValues.Helper.pdb
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\obj\Debug\netstandard2.0\NumericValues.Helper.dll
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\obj\Debug\netstandard2.0\NumericValues.Helper.pdb
+D:\GitVersions\MobileRetail.Api\ClientProducts\Infrastructure\Helpers\NumericValues.Helper\obj\Debug\netstandard2.0\NumericValues.Helper.csprojAssemblyReference.cache

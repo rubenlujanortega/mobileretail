@@ -1,0 +1,8 @@
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\bin\Release\net472\ClientProducts.Domain.dll
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\bin\Release\net472\ClientProducts.Domain.pdb
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\obj\Release\net472\ClientProducts.Domain.csprojAssemblyReference.cache
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\obj\Release\net472\ClientProducts.Domain.csproj.CoreCompileInputs.cache
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\obj\Release\net472\ClientProducts.Domain.AssemblyInfoInputs.cache
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\obj\Release\net472\ClientProducts.Domain.AssemblyInfo.cs
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\obj\Release\net472\ClientProducts.Domain.dll
+D:\GitVersions\MobileRetail\ClientProducts\DomainModel\ClientProducts.Domain\obj\Release\net472\ClientProducts.Domain.pdb

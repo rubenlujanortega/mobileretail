@@ -1,0 +1,13 @@
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\bin\Release\net472\ClientProducts.Message.dll
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\bin\Release\net472\ClientProducts.Message.pdb
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\bin\Release\net472\ClientProducts.Domain.dll
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\bin\Release\net472\Common.Domain.dll
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\bin\Release\net472\ClientProducts.Domain.pdb
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\bin\Release\net472\Common.Domain.pdb
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.csprojAssemblyReference.cache
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.csproj.CoreCompileInputs.cache
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.AssemblyInfoInputs.cache
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.AssemblyInfo.cs
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.csproj.CopyComplete
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.dll
+D:\GitVersions\MobileRetail\ClientProducts\Message\ClientProducts.Message\obj\Release\net472\ClientProducts.Message.pdb

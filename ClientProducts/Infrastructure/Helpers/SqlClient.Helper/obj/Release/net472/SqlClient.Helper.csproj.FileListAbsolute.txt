@@ -1,0 +1,8 @@
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\bin\Release\net472\SqlClient.Helper.dll
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\bin\Release\net472\SqlClient.Helper.pdb
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\obj\Release\net472\SqlClient.Helper.csprojAssemblyReference.cache
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\obj\Release\net472\SqlClient.Helper.csproj.CoreCompileInputs.cache
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\obj\Release\net472\SqlClient.Helper.AssemblyInfoInputs.cache
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\obj\Release\net472\SqlClient.Helper.AssemblyInfo.cs
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\obj\Release\net472\SqlClient.Helper.dll
+D:\GitVersions\MobileRetail\ClientProducts\Infrastructure\Helpers\SqlClient.Helper\obj\Release\net472\SqlClient.Helper.pdb

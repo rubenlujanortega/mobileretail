@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+    <PackageReference Include="Unity" Version="5.11.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\DomainModel\ClientProducts.Domain\ClientProducts.Domain.csproj" />
+    <ProjectReference Include="..\..\..\DomainModel\Common.Domain\Common.Domain.csproj" />
+    <ProjectReference Include="..\..\Helpers\SqlClient.Helper\SqlClient.Helper.csproj" />
+    <ProjectReference Include="..\..\Mapping\ClientProducts.Mapping\ClientProducts.Mapping.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.ServiceModel" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
+  </ItemGroup>
+
+</Project>

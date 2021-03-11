@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MobileRetail.Api</name>
+    </assembly>
+    <members>
+        <member name="T:MobileRetail.Api.SwaggerConfig">
+            <summary>
+            Swagger configuratio
+            </summary>
+        </member>
+        <member name="M:MobileRetail.Api.SwaggerConfig.Register(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Registers the specified configuration.
+            </summary>
+            <param name="config">The configuration.</param>
+        </member>
+        <member name="M:MobileRetail.Api.UnityConfig.RegisterComponents(Unity.IUnityContainer)">
+            <summary>
+            Registers the components
+            </summary>
+            <param name="container">The container.</param>
+        </member>
+        <member name="M:MobileRetail.Api.UnityConfig.Register(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Registers the components.
+            </summary>
+            <param name="config">The configuration.</param>
+        </member>
+        <member name="M:MobileRetail.Api.UnityConfig.RegisterDatabase(Unity.IUnityContainer,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="container"></param>
+            <param name="name"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MobileRetail.Api.WebApiConfig">
+            <summary>
+            Web API Configuration
+            </summary>
+        </member>
+        <member name="M:MobileRetail.Api.WebApiConfig.Register(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Registers the specified configuration.
+            </summary>
+            <param name="config">The configuration.</param>
+        </member>
+        <member name="T:MobileRetail.Api.Controllers.ClientProductsController">
+            <summary>
+            ClientProductsController
+            </summary>
+            <seealso cref="T:System.Web.Http.ApiController" />
+        </member>
+        <member name="M:MobileRetail.Api.Controllers.ClientProductsController.#ctor(ClientProducts.Application.IClientProductsApp)">
+            <summary>
+            Constrcutor
+            </summary>
+            <param name="clientProductsRetailApp"></param>
+        </member>
+        <member name="M:MobileRetail.Api.Controllers.ClientProductsController.GetClientProducts(ClientProducts.Message.ClientProductsRequest)">
+            <summary>
+            Get the products with balance from a client
+            </summary>
+            <param name="request">data of the request</param>
+            <returns>ParticipantResponse</returns>
+        </member>
+        <member name="M:MobileRetail.Api.Controllers.ClientProductsController.GetContractDetail(ClientProducts.Message.ContractDetailRequest)">
+            <summary>
+            Get the contract detail information
+            </summary>
+            <param name="request">data of the request</param>
+            <returns>ParticipantResponse</returns>
+        </member>
+        <member name="M:MobileRetail.Api.Controllers.ClientProductsController.GetContractBankAccounts(ClientProducts.Message.ContractBankAccountsRequest)">
+            <summary>
+            Get the contract's bank accounts 
+            </summary>
+            <param name="request">data of the request</param>
+            <returns>Bank accounts List</returns>
+        </member>
+        <member name="M:MobileRetail.Api.Controllers.ClientProductsController.GetContractContributionsInfo(ClientProducts.Message.ClientContractContributionsInfoRequest)">
+            <summary>
+            Get the contract's DOM initial info
+            </summary>
+            <param name="request">data of the request</param>
+            <returns>DOM Info</returns>
+        </member>
+        <member name="M:MobileRetail.Api.Startup.Configuration(Owin.IAppBuilder)">
+            <summary>
+            Configurations the specified application.
+            </summary>
+            <param name="app">OWIN App builder</param>
+        </member>
+    </members>
+</doc>
